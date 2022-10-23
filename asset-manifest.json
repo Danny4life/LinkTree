@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/LinkTree/static/css/main.4ed9bd42.css",
+    "main.js": "/LinkTree/static/js/main.64223015.js",
+    "index.html": "/LinkTree/index.html",
+    "main.4ed9bd42.css.map": "/LinkTree/static/css/main.4ed9bd42.css.map",
+    "main.64223015.js.map": "/LinkTree/static/js/main.64223015.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4ed9bd42.css",
+    "static/js/main.64223015.js"
+  ]
+}
