@@ -22,7 +22,7 @@ const Home = () => {
             </div>
             <div className="xl:w-3/4 w-80 h-16 bg-gray-200 border-solid rounded-lg items-center justify-center hidden">
                 <h4 className="font-medium text-sm leading-5 text-center">
-                    <a id="slack" href="www.twitter.com">Slack Link</a>
+                    <a id="slack" href="www.slack.com">Slack Link</a>
                 </h4>
             </div>
             <div className="xl:w-3/4 w-80 h-16 bg-gray-200 border-solid rounded-lg flex items-center justify-center">
