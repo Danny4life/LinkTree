@@ -40,7 +40,7 @@ const Home = () => {
             </div>
             <div className="xl:w-3/4 w-80 h-16 bg-gray-200 border-solid rounded-lg flex items-center justify-center">
                 <h4 className="font-medium text-sm leading-5 text-center">
-                    <a id="book__python" href="https://books.zuri.team">Python Books</a>
+                    <a id="book__python" href="https://books.zuri.team/python-for-beginners?ref_id=Segun Osiki">Python Books</a>
                 </h4>
             </div>
             <div className="xl:w-3/4 w-80 h-16 bg-gray-200 border-solid rounded-lg flex items-center justify-center">
