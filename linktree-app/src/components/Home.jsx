@@ -6,6 +6,8 @@ import img1 from "../images/seg.jpeg";
 import Footer from "./Footer";
 
 const Home = () => {
+
+
     return ( 
         
     <>
