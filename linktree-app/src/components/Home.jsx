@@ -1,5 +1,5 @@
-//import { Link } from "react-router-dom";
-import { useNavigate } from "react-router-dom";
+import { Link } from "react-router-dom";
+//import { useNavigate } from "react-router-dom";
 import GitHub  from "../icons/GitHubIcon";
 //import ProfileIcon from "../icons/ProfileIcon";
 import SlackIcon from "../icons/SlackIcon";
@@ -8,7 +8,7 @@ import Footer from "./Footer";
 
 const Home = () => {
 
-    const navigate = useNavigate();
+    // const navigate = useNavigate();
 
 
     return ( 
@@ -52,9 +52,9 @@ const Home = () => {
                 className="font-medium text-sm leading-5 text-center">Design Books</a>
             </div>
             <div className="xl:w-3/4 w-80 h-16 bg-gray-200 border-solid rounded-lg flex items-center justify-center">
-                <a onClick={() => navigate("/contact")} id="contact" className="font-medium text-sm leading-5 text-center cursor-pointer">
+                <Link to={"/contact"}id="contact" className="font-medium text-sm leading-5 text-center cursor-pointer">
                     Contact Me
-                </a>
+                </Link>
             </div>
            </div>
            <div className="flex justify-center gap-6">
